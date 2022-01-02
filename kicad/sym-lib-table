@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "TC442x")(type "KiCad")(uri "${KIPRJMOD}/TC442x.kicad_sym")(options "")(descr ""))
+  (lib (name "MACOM_MASW")(type "KiCad")(uri "${KIPRJMOD}/MACOM_MASW.kicad_sym")(options "")(descr ""))
+)
