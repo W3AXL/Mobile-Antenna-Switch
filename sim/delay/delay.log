@@ -1,0 +1,23 @@
+Circuit: * H:\Documents\GitHub\Mobile-Antenna-Switch\sim\delay\delay.asc
+
+Limiting rise time of source v2 to 0.0005
+Limiting fall time of source v2 to 0.0005
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Jan 08 21:44:37 2022
+Total elapsed time: 0.079 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3112
+traniter = 3092
+tranpoints = 1287
+accept = 1219
+rejected = 68
+matrix size = 15
+fillins = 2
+solver = Normal
+Matrix Compiler1: 872 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 1.22 KB object code size  0.1/0.1/[0.1]
+
